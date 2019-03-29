@@ -1,0 +1,26 @@
+---
+name: ""
+---
+
+# Behavioral Analysis from Video (BehAV) Project
+
+Welcome to the web site for for the BehAV project.
+We are researchers who are building tools for using computer vision techniques to analyze videos of human and non-human animal behavior.
+The project is based at Penn State, but involves researchers from New York University and elsewhere.
+
+## Team
+
+Rick O. Gilmore, Ph.D.</br>
+The Pennsylvania State University</br>
+
+Kory Blose, Ph.D.</br>
+The Pennsylvania State University</br>
+
+Stephen Fast, Ph.D.</br>
+The Pennsylvania State University</br>
+
+Ori Ossmy, Ph.D.</br>
+New York University
+
+Conrad Tucker, Ph.D.</br>
+The Pennsylvania State University</br>

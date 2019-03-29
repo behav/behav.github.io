@@ -1,0 +1,13 @@
+name: "BehAV"
+navbar:
+  title: "BehAV @ Penn State"
+  left:
+    - text: "Home"
+      href: index.html
+output_dir: "docs"
+output:
+  html_document:
+    theme: spacelab
+    highlight: textmate
+    include:
+      after_body: footer.html
